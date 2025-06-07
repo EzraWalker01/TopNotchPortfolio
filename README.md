@@ -25,5 +25,3 @@ Welcome to my portfolio! I’m **Ezra Walker**, a top-notch computer programmer 
 - Email: [jointinnovationsclub@gmail.com]
 
 ---
-
-Let me know if you’d like help writing code for the first project, or customizing this even more! Just say the word and I’m on it.
